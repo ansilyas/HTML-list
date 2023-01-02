@@ -1,0 +1,14 @@
+ .box{
+    /* background: linear-gradient(blue,green); */
+    /* background: linear-gradient(to right, blue,yellow,red ); */
+    /* background: linear-gradient(to bottom left,orange,yellow,red); */
+    /* background: radial-gradient( red,orange); */
+    /* background: radial-gradient( blue,yellow); */
+ }
+ ul li{
+    list-style-type: lower-greek;
+    /* list-style-image:url(/img/star.png); */
+   /* list-style-position:outside;    it make the list at equal level  */
+    /* list-style: square  inside  url();  it is short hand method we can put all value at once */
+   
+ } 
